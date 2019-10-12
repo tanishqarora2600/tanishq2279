@@ -1,8 +1,7 @@
 #include<stdio.h>
-#include<conio.h>
 void main()
 {
-int a[5],b[5],c[10];
+int A[5],B[5],C[10];
 int i,j,same=0;
 printf("Enter set A \n");
 for(i=0;i<5;i++)
@@ -39,6 +38,5 @@ for(i=0;i<10;i++)
          printf("%d ",c[i]);
         }
     }
-getch();
 }
 
