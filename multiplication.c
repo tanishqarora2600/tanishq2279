@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 void main()
 {
 int A[2][2],B[2][2],C[2][2],i,j,k;
@@ -26,7 +25,7 @@ for(i=0;i<2;i++)
             C[i][j]=0;
             for(k=0;k<2;k++)
             {
-                C[i][j] = C[i][j] + A[i][k]*B[k][j];
+                C[i][j] += A[i][k]*B[k][j];
 
             }
         }
@@ -40,5 +39,4 @@ for(i=0;i<2;i++)
           }
      printf("\n");
     }
-getch();
 }
