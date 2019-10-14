@@ -13,7 +13,7 @@ for(i=0;i<5;i++)
     {
      scanf("%d",&b[i]);
     }
-printf("Intersection of set A and B is : ");
+printf("Intersection of set A and set B is : ");
 for(i=0;i<5;i++)
     {
      same=0;
