@@ -24,7 +24,7 @@ for(i=0;i<2;i++)
     {
      for(j=0;j<2;j++)
         {
-            C[i][j] = A[i][j] + B[i][j];
+            C[i][j] = B[i][j] + A[i][j];
         }
     }
 for(i=0;i<2;i++)
