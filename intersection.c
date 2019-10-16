@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-int A[5],B[5],C[5];
+int a[5],b[5],c[5];
 int i,j,same=0;
 printf("Enter set A \n");
 for(i=0;i<5;i++)
