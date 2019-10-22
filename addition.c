@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-int A[2][2],B[2][2],C[2][2],i,j;
+int A[2][2],B[2][2],C[2][2]=0,i=0,j=0;
 printf("Enter elements for Matrix A: \n");
 for(i=0;i<2;i++)
     {
