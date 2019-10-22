@@ -1,19 +1,18 @@
 #include<stdio.h>
 void main()
 {
-int a[5],b[5],c[5];
-int i,j,same=0;
-printf("Enter set A \n");
+int a[5],b[5],c[5],i=0,j=0,same=0;
+printf("Enter A \n");
 for(i=0;i<5;i++)
     {
-     scanf("%d",&a[i]);
+     scanf("%d", &a[i]);
     }
-printf("Enter set B \n");
+printf("Enter B \n");
 for(i=0;i<5;i++)
     {
-     scanf("%d",&b[i]);
+     scanf("%d", &b[i]);
     }
-printf("Intersection of set A and set B is : ");
+printf("Intersection is : ");
 for(i=0;i<5;i++)
     {
      same=0;
