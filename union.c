@@ -3,15 +3,15 @@ void main()
 {
 int a[5],b[5],c[10]:
 int i,j,same=0;
-printf("Enter set A \n");
+printf("Enter Array A: \t");
 for(i=0;i<5;i++)
     {
      scanf("%d",&a[i]);
     }
-printf("Enter set B \n");
+printf("Enter Array B: \t");
 for(i=0;i<5;i++)
     {
-     scanf("%d",&b[i]);
+     scanf("%d", &b[i]);
     }
 for(i=0;i<5;i++)
     {
@@ -21,7 +21,7 @@ for(i=0,j=5;i<5,j<10;i++,j++)
     {
      c[j]=b[i];
     }
-printf("Union of set A and B is : ");
+printf("Union of Array A and B is :\t ");
 for(i=0;i<10;i++)
     {
     same=0;
