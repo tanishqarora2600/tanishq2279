@@ -2,7 +2,7 @@
 void main()
 {
 int a[2][2],B[2][2],C[2][2],i,j,k;
-printf("Enter Matrix A:\t \n");
+printf("Enter Matrix A:");
 for(i=0;i<2;i++)
     {
      for(j=0;j<2;j++)
@@ -10,7 +10,7 @@ for(i=0;i<2;i++)
          scanf("%d",&a[i][j]);
         }
     }
-printf("Enter Matrix B:\t");
+printf("Enter Matrix B:");
 for(i=0;i<2;i++)
     {
     for(j=0;j<2;j++)
@@ -30,7 +30,7 @@ for(i=0;i<2;i++)
             }
         }
     }
-printf("Multiplication :\t ");
+printf("Multiplication : ");
 for(i=0;i<2;i++)
     {
      for(j=0;j<2;j++)
