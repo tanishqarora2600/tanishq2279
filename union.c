@@ -2,13 +2,14 @@
 void main()
 {
 int a[5],b[5],c[10]:
-int i,j,same=0;
+int i,j,same=0,y;
 printf("Enter Array A: \t");
 for(i=0;i<5;i++)
     {
      scanf("%d",&a[i]);
     }
 printf("Enter Array B: \t");
+    printf("%d",y);
 for(i=0;i<5;i++)
     {
      scanf("%d", &b[i]);
