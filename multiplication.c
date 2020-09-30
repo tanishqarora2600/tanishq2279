@@ -2,7 +2,7 @@
 void main()
 {
 int a[2][2],B[2][2],C[2][2],i,j,k;
-printf("Enter Matrix A:\t ");
+printf("Enter Matrix A:\t \n");
 for(i=0;i<2;i++)
     {
      for(j=0;j<2;j++)
