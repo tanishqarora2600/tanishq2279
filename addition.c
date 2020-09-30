@@ -8,10 +8,10 @@ for(i=0;i<2;i++)
     {
      for(j=0;j<2;j++)
         {
-         scanf("%d",&a[i][j]);
+         scanf("%d ",&a[i][j]);
         }
      }
-printf("Enter elements for Matrix B:  \n");
+printf("Enter elements for Matrix B:\n");
 for(i=0;i<2;i++)
       {
        for(j=0;j<2;j++)
@@ -19,7 +19,7 @@ for(i=0;i<2;i++)
          scanf("%d",&b[i][j]);
         }
     }
-printf("Addition of 2 Matrices= \n");
+printf("Addition of 2 Matrices = \n");
 for(i=0;i<2;i++)
     {
      for(j=0;j<2;j++)
@@ -31,7 +31,7 @@ for(i=0;i<2;i++)
     {
      for(j=0;j<2;j++)
             {
-             printf("%d ",c[i][j]);
+             printf("%d   ",c[i][j]);
             }
     printf("\n");     
     }
