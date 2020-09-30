@@ -34,6 +34,7 @@ for(i=0;i<10;i++)
              break;
             }
         }
+    
     if(same==0)
         {
          printf("%d ",c[i]);
