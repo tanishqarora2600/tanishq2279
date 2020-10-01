@@ -5,6 +5,8 @@ void main()
 int a[2][2],b[2][2],c[2][2]=0,i=0,j=0;
 printf("Enter elements for Matrix A: \n");
 for(i=0;i<2;i++)
+    
+    
     {
      for(j=0;j<2;j++)
         {
