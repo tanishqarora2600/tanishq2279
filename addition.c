@@ -2,6 +2,7 @@
 #include<conio.h>
 void main()
 {
+    printf("Addition:-\n");
 int a[4][4],b[4][4],c[4][4]=0,i=0,j=0;
 for(i=0;i<4;i++)
     
