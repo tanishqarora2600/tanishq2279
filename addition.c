@@ -3,7 +3,6 @@
 void main()
 {
 int a[4][4],b[4][4],c[4][4]=0,i=0,j=0;
-printf("Enter elements for Matrix A: \n");
 for(i=0;i<4;i++)
     
     
