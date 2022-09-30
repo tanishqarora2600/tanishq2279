@@ -13,7 +13,7 @@ for(i=0;i<5;i++)
     {
      scanf("%d", &b[i]);
     }
-printf("Intersection is : ");
+printf("Intersection is : 23");
 for(i=0;i<5;i++)
     {
      same=0;
