@@ -13,7 +13,7 @@ for(i=0;i<6;i++)
     {
      scanf("%d", &b[i]);
     }
-printf("Intersection is : 67");
+printf("Intersection is : ed");
 
 for(i=0;i<6;i++)
     {
