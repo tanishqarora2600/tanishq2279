@@ -3,6 +3,8 @@ void main()
 {
 int a[4][4],B[4][4],C[4][4],i,j,k;
 printf("Enter Matrix A: lm");
+
+    
 for(i=0;i<4;i++)
     {
      for(j=0;j<4;j++)
