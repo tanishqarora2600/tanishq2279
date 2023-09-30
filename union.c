@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-int a[3],b[3],c[9], d[9]:
+int a[3],b[3],c[9], d[9] e[9]:
 int i,j,same=0,y;
     printf("Union:- \n");
 printf("Enter Array A: \t");
