@@ -5,8 +5,6 @@ void main()
     printf("Addition:-\n 890");
 int a[5][5],b[5][5],c[5][5]=0,i=0,j=0 k=0;
 for(i=0;i<5;i++)
-    
-    
     {
      for(j=0;j<5;j++)
         {
