@@ -1,5 +1,6 @@
 #include<stdio.h>
 void main()
+// loop 
 {
 int a[6],b[6],c[6],i=0,j=0,same=0,f=0;
     printf("Intersection: \n");
